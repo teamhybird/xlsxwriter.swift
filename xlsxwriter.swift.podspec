@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'xlsxwriter.swift'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'Creating Excel XLSX files.'
   s.homepage         = 'https://github.com/teamhybird/xlsxwriter.swift'
   s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
